@@ -19,17 +19,23 @@ How much a customer spends. High-spenders are typically the most valuable custom
 ## ⚙️ Project Workflow
 The Python implementation follows these key steps:
 
-### Data Preparation: Read the dataset and convert the purchase dates to a usable datetime format.
+### Data Preparation: 
+Read the dataset and convert the purchase dates to a usable datetime format.
 
-### RFM Calculation: Calculate the Recency, Frequency, and Monetary values for each customer.
+### RFM Calculation: 
+Calculate the Recency, Frequency, and Monetary values for each customer.
 
-### Data Consolidation: Merge the calculated RFM metrics into a single DataFrame for a unified view.
+### Data Consolidation: 
+Merge the calculated RFM metrics into a single DataFrame for a unified view.
 
-### Customer Ranking & Scoring: Rank customers based on their RFM values and then normalize these ranks to a consistent scale. This is used to calculate a final RFM Score.
+### Customer Ranking & Scoring: 
+Rank customers based on their RFM values and then normalize these ranks to a consistent scale. This is used to calculate a final RFM Score.
 
-### Customer Segmentation: Classify customers into predefined segments (e.g., "Top Customers", "Lost Customers") based on their RFM scores.
+### Customer Segmentation: 
+Classify customers into predefined segments (e.g., "Top Customers", "Lost Customers") based on their RFM scores.
 
-### Visualization: Visualize the distribution of customer segments using a pie chart to easily understand the composition of the customer base.
+### Visualization:
+Visualize the distribution of customer segments using a pie chart to easily understand the composition of the customer base.
 
 ## 🚀 Key Takeaways
 This project provides a simple yet effective method for businesses to gain insights into customer behavior and plan their strategies accordingly. By focusing on customers who matter most, businesses can optimize their resources and drive better outcomes.
