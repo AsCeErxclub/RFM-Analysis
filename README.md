@@ -37,5 +37,7 @@ Classify customers into predefined segments (e.g., "Top Customers", "Lost Custom
 ### Visualization:
 Visualize the distribution of customer segments using a pie chart to easily understand the composition of the customer base.
 
+<img width="640" height="480" alt="customer_segments_pie_chart" src="https://github.com/user-attachments/assets/90ea8600-55f9-4462-923b-5c9e2c460485" />
+
 ## 🚀 Key Takeaways
 This project provides a simple yet effective method for businesses to gain insights into customer behavior and plan their strategies accordingly. By focusing on customers who matter most, businesses can optimize their resources and drive better outcomes.
